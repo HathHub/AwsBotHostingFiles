@@ -1,0 +1,130 @@
+{
+	"name": "mega-dtbs",
+	"dist-tags": {
+		"latest": "0.1.17"
+	},
+	"versions": {
+		"0.1.6": {
+			"name": "mega-dtbs",
+			"version": "0.1.6",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-xWcZ5vajmFXRsFofNF3CUebYrh/s0I+2YI6bKD2+oIMtP3E66tY0SOkryVomkLP3q6hf0x3k/W1X6PebhRD+Iw==",
+				"shasum": "b3093bd6475618ae6f265406c17bfa183b8df0d6",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.6.tgz",
+				"fileCount": 8,
+				"unpackedSize": 18645,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcKGOXCRA9TVsSAnZWagAAJLIP/0HXHnQX/OUqhCFK6+n7\nstrWbgH4jvO3y4nGLkzuO2hLIoiNPepg63f4478AmvFjb/FVsVh7sTqWwPai\nRbqRKmnfO9sD2B2WfKSccHpA7P0uJJHAJQ45+j2ai43Lw1Fz9kasAEY2lgaB\npxa4mDZnYbpmuo0sSrRQJwulh4Oc4V0fw89fBbJ80NT/7Bx3pU6JBcqknWPN\nqgzWBoV8CdfXGyjPYcsVe3b8SaeV2jdBMFoHj83dK39+Eya0INZGIjoNsOAL\n1EPXOJh1eysPTh9P7hlxeEleIsivQ7Af6eT7/FAxkH8OI94Qi5sq5q5NIgVC\nw/cErMECRPiBwUdbCfCMC4M58Y/gt+nFk3tIyBSA5kPLJsKR/LtpbpoyMgkO\nPackK31iddLXGFJGDpWv9niIgg3Lj0KxKw4drtRLAY4KRXo6D2ZCexhwCoS6\nAQg79nmZJaN1psQ1BaZ3hRQI8jouIVdikgibWihHZLsgQPyuqdR95xr1aDKU\nJKgCNtf5rCyGdadUPWLDJ8JEzHcSBmmDkMqAjvBTOz7wf92uNR7A/PtE101m\nmDIrPiO72FFBVM7WZu2gdfT/+LHC+FhUnAS27TN4twbQ1rkNDqQWwtI5vdzR\nD+e5xMCcEK4xuXEhryyUbLmsgjqDehulQVBqX+iU+Mkja4xTvRKco1Sdj62O\nS+FD\r\n=w6O6\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.1.8": {
+			"name": "mega-dtbs",
+			"version": "0.1.8",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-voloRWIc39ZWT0TYNvXumnu/HfdJfKw3OggfidDwiFhB18Q0+Vimppfmux36KXCZPWYUySn5HU5KOB9rydD/vQ==",
+				"shasum": "75584bc90318964e431b320c50222c345dd833dd",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.8.tgz",
+				"fileCount": 7,
+				"unpackedSize": 26846,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcKwycCRA9TVsSAnZWagAAMBsP/jlmi0yCqW3MuhKdSrbn\ndOLEWQv6aUXvNdKbGHvJxtzql582L7qXCY9Xmrynn/zLyzJNWeybuIqx0d4N\nExAmCFtY6kCcLpxFrf9fpKo+iR/fDWjgNJAMRpNulJQCVnR9MOJKFfsQk3xW\nnItzpm0nT/1U1EtjpcN56V3LJ91/volnQj/4u0bxDNbsZitJf9FvwWDxu+iS\nUh8cs64dEBewibLP15yzVYiD9BiTe9wttOaDoyAmJsPdBRCN3IhTFNlO0Y7s\n6SjAlIEvZRv85OIPYRJDfOY8tN94GjCFMi4c2WvlOWwx7z/3XEUMU3eP9xTd\nuiEKzvKyejpAg4/huh4aSQkPO+I5Dh1wmP1phne4yPr4KCaQ9/3bvICIirKA\ndUbCh7SX9Tb1P/ssZG+E14fg/ZmA3s7wq/gqzrAM1gmHZTi0CeAyVJvOwkmZ\nMT+ucH4LQR4+r9JebbUbyGBBBy9U6qu5ITMtMwRn8wT8LkVCfBN9cwZ/MTpT\nv8R6JoZkN5wAgFkQPt8gk6SgqkG1+xn9aD6C+SBhgLHqGf7CehUx1NDC8kat\nTbV1klcGFtn2QOAZNhJ/RL8GO0iBr33K3lzKM77nfuNE5TqoZIFnB8VCXNX5\n0cpWlTpyd49Pz+ghsQgr4f+fELsVv1Gj25MCz6GaJS/GMtKimFLrSv6ZLEoL\nc9po\r\n=fI54\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.1.10": {
+			"name": "mega-dtbs",
+			"version": "0.1.10",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-7NdhuPEYD+ugY5znUctVPzRDZ1Fw7J3zRwDiU5O0S4v7j1puv/i/6lCpNZwPTysFDonERg6W0O8aihnEzjtX/g==",
+				"shasum": "f404a09109bb591d9840ca32a0d970aa700f4f17",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.10.tgz",
+				"fileCount": 5,
+				"unpackedSize": 27116,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcLrexCRA9TVsSAnZWagAAqo0P/jFyn2Z9tKTzluEyyqFk\nYIyx+xrif+NAJ+bJmNI/SzJlrUutBAdLtGV9wNpOyoJCltnFiS0UmM4PwPcK\n0zYJXAjtM/K6H16kmZCtPXRiaGU2YOY61aC2Mr42HvscXRqeQcCReqwAol3S\nu8x9ppzswla2F1gp049Q48uDkssRA74eLM09k26W48v4CYlMlDJn5V26m9i2\n/n00hALd5knHyypzt7oOEv8qUNSoUyEpdBTkf3E48G/vpaXvI5oz/7fVgj83\nIRQ4neUJ9bnnzsdelU7CcXGYLvzFL4fkmM9HbwaAowTU3f1l+kwDlOgDUMV0\njN/ePv268Dt6azf49HT+i/MYRvcOBPKhG3ep54v5yEQjW54vv7xPUoOO0sWT\nwJt3BlKD4YgEqOWll4YATBCIDLkbpsF+QFS9PD4ecmfsKkgxKm/ESCgmVXuQ\nu7jJQQm4ahnDcMGEreH+8W0Y5JB5SjOTVUbA2x0yocIrVCtbl5QLlZjRbn7O\nbLk1WBSmPixMRvRNtYC+gBkTG2je37tmvqarhcfOR/ItTNyjEIwLuI4G8H8e\nrtdZC6j6FrOPRWS1yuxQ6QxSPrkDNrqPThZ0n3BEiJHc3I/v6+flv5GYdwl3\n8m4G4ngFqtv9BIP7izc/UfInewaxUJEbrszgwhVmOHOA9rGuA5jba0hROcKX\nKpb5\r\n=jMpV\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.1.11": {
+			"name": "mega-dtbs",
+			"version": "0.1.11",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-1s61AMVMgoq99r+V3Zw1Et7yObissIhKQ7Va47cG582qC8sK37mr7Aw1WR6Yj3HgiiI1aqST/ch8yK9b6zg+yA==",
+				"shasum": "5db1403cc8522cf77230f270ee1424cbc6f7a3f2",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.11.tgz",
+				"fileCount": 5,
+				"unpackedSize": 42755,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcOBhVCRA9TVsSAnZWagAAPBIP/iSNJNMgY34K6dfgQS/B\nfQrf0A0rPFcjEnTcMTBjF0tZSBKlGIkRlEdG1+UTYl/Ae7xChWqMkpXkn813\nNDSciK+aumEBbdwgJ0QnPSgoetOrziKq1TS2598umJYzOvMVzNvEjukKSNXT\n9lupVzuxiNJttORGu+CZQvrtalyra9KrOh5nCr4u9XLw9rX/FAElgsySsGYF\nPmRpaCi++ASMk/AQL+qZUMw73JiPiV7KrE8lC59LNcCtYMchvShPbKqtgAMr\nG+WZinABLv/pqLZWuDWy6AWMPgNnbbqZzoedH1VKyd/t6ah5BpOMBDo2LtWW\ncqNPnS0oFD6plutYvDWD9wPbYvCIIvXjrUntqlmr3bknna5tvUfvzw+FtRf1\nmz2V9/2Tc7fa8575HES9PMTSz9YKGcWNn47MRRAYxz6lJmWUskqtqr2d34Uq\nr+sPTnKeh8w7+Yf24pK3uutxggtkZtfrJFD5DKMMg3SWNukHgCR12a8UV/c5\nOPT+v8t/gvYgisKiXXOzz/Es9oWIW1T45Wb0KrRmbzHR5gX91Us3PbFAiaLu\nEHpHdg4NlvvmgROmkdOIiIc7oCJfKPL2UlSqA7vSGqsRIOFd9OFlEVdoxGly\nXAAj8eGYE9I7Y0+z0Jcxf3drYhB8uR9QyR+VhqKWEWxfSyqRfh66gAMwGmG1\ng8SA\r\n=Nfw6\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.1.14": {
+			"name": "mega-dtbs",
+			"version": "0.1.14",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-r1t2dv+fx7l7En5iLeQEbXfevOYaUlXh43d4J72hNHTCzYW2GMcTDmumDh7erurJtU6Fihf6ero/z6XD0QDVmw==",
+				"shasum": "7bdbc3f5355a0cdcd7caf78cd33793542070829e",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.14.tgz",
+				"fileCount": 5,
+				"unpackedSize": 43217,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcOOGRCRA9TVsSAnZWagAA+IMP/j2Cvl4EyP9rM4OW5rXS\njnWr8miMFHdq8hVl7X6Ki4LxbtltmrJZ3ZaBvwqHWbY0J9SUtZ/rfvkG4+qv\nrUGZlnbapm96EwQuKDg2obi5gSceDNuqPpvXTLk9d+rI/WIZt4wcParXsGXG\nEWFcmUPHGCLJoSD3TJaFFhJx6nUcL5lIOgEew/1pneztOPnLXqQW6YFG0tvk\nXINh3AVl063N7FbCNUq5io1G9yN4iUNfjQF5y+KI7jlxgIqr/WbB55Pi7XW6\n+TrpS5q5ngN4T9QGn+fxfmUlNZKlqydoXWdDpcqJi31P6zR2S9kQL5IViuVV\nBrIDyCvqJnbP4fBLc3h6MoXqWYPOc3yod1nVEtUgLdByXhcy09n+IHdmmZBf\nAvxE642jRtEw5MUSnnkOSAMJ1wuBcu2toM2n48wCD81++Y8KbQ/1TfF+IYb7\nCpTnVXJ9g+I1MEa5GYrqMnSOqdFvdUiPxp5PmxDyoCo1vhxoNRjvyUzAiWas\nK7rRRpJu3BZkS0tOs6tkhPqM0ge9ngBpsho5JQ7d8PztMzR2F9eSPNwQR3g4\n/OJhU9NYF12wnSoYUw1PZIhJIeJO2/k1nUHfZtolGZIIPhUOal5a1/cAE8l2\n4G1+oBwE6ePynunRQqI0dYUmOpDL6S94IN69UxnPCS0hZLyYo/gSojGZGtAy\nffHZ\r\n=TLJ2\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.1.15": {
+			"name": "mega-dtbs",
+			"version": "0.1.15",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-2MU8h2juv3vg6ptKVjCED1Fb4on4e8vCSsEP69mblPHmJ91fAkTrrVucPgFO4O29p7P3DPk2tAD3RK47Zkofxg==",
+				"shasum": "947eb9abd35b00817697d43978f85d41f5c27124",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.15.tgz",
+				"fileCount": 5,
+				"unpackedSize": 43127,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcOhG+CRA9TVsSAnZWagAAiogP/RWT0gxTUWTVBAjc90Se\nqi3Yhi6sd+MnABkU3v4cyc5VNVOrxBLBPjuSltd5qFUqYcCfqcARPVE8PM1E\nrIy1fd+2EB97GWA3dXgACAZl6qIv7NMDzUrKNpDxmHNZxe5IPcrehQNjpy7h\nsgsQOpjrZvdysWNQ7fXvPnWQG1R12fH128tAqEwpeoOdObMdUsRAuQuz4DqZ\nvYAXCrvgVJ3kvHFhEL9NU+JtnLIO1z5Eg0lEvXiVNJB4mAclRDAIb2nzNDdf\n5axCQYnL6ZsnSu3K7xNlKBkoy3WBbxomyBelwiaPuQaeZEN6Fjuc7+k7lNTI\nh53rFhBMNjd+SEowzVw2pk/WEqmARQB6dY7+WRsEwoQ7Qif45jmMjH6R7qOl\n+6GP6TqDbOi7Ua6x5X+zPmOAyS87YS5LFj09TaTjpDVF6XkESrV9oUiMc1GT\nu8giHTWJbtAoMCz9J6zescpj1VohQ1Rus2tOwGu8aJa5C+jK/0wVVqDd8OLI\nhRH5xk8zvIjmB3t5L7nw8Oh+ME03tNv6pWs2XO4ZmGInR3j/sUwEsvLZMETc\noshnqgwlltkB+b8XGLEQXMgnfKDQRX+9yF+mSSEXUt7ox8BFQfCL6oocyJtL\nriRQbjns5d45NyOJaJb4X/t9wTbk6Jug51LF7nRE9hTe2G2V911j/kPvH9A0\ntrUr\r\n=Fl3k\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.1.16": {
+			"name": "mega-dtbs",
+			"version": "0.1.16",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-QamyXEwSj0ICoF/TMhfhacNsUyGlECohp22rUge9P9KxswLPKB5vZZvRlD8wUjpx9yJmwBO8kf5SwpTv8SsArw==",
+				"shasum": "175df7e2236f78debef677e83f96a29073baf380",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.16.tgz",
+				"fileCount": 5,
+				"unpackedSize": 43200,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcSPaJCRA9TVsSAnZWagAACFkP/jq7X0DXIJnpzVDeW2a4\nM/FZizpvfvvldPArPSTG5Ljgb6yH2NMuB+ZKaVwrQeMmbpH2wzOybpyRQnDM\no/lIpoYYICU15qu4zCjJUzv30ycKNN2NPWDlOvb8T4JfCx1HCv8fJyI7Hzof\n5dWKjy05MjXvw26P3Gx0RZCX57L9uQOxxIp4G1ABk0mBYz72vLOB5nT2rsx8\nzau7QRQQFfus3+7eZOwsS1yn7fSg3czvF7AlJ+0f6IjYW23XiaOJC6Hn10b7\n8eRuqgltVJK7ZVV1EGVbzHUoOCq0VdrAlT38BKA4vczLnLthDJmM19I5hPK7\nCQozUAF2ztaVzijPUzc6yIksxoCh03Cu+nUk9rtl1vG0oGp+YFHPXAcEQ70Y\nkkv5BsCqY0zDXhBCRsDaadw6xH2isdDUGPxW027NH7S9jbQyUngd2NCKQr1A\n5A7vVuL94O+9LkuQw+rOVLxcW1iFCeENMDRtHByhX8rOJ2Bcqnx878/UXzFU\nePUFg5JXaFSlnyAKeU1PDQeMJ5hih8rhzqOi75n6ZUXAr/6vJFx1cS/oBoYd\nTiiCgRD8+QjNIh8pV98czH66Wzk8OzGX+mNSMEW4huKEvXCZyu6pN80cByrV\ntPi5F315SABAGrBvaPQtN+FsdGe7Su57k0HogxDpl3nZFIZDxY7Dmpscmlaz\n7IqS\r\n=/JrK\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"0.1.17": {
+			"name": "mega-dtbs",
+			"version": "0.1.17",
+			"dependencies": {
+				"path": "^0.12.7"
+			},
+			"dist": {
+				"integrity": "sha512-0coxptX0jwbfB1KPJZV43s9Wflr5XPytQrlyqrjofZzCTEUx1W8256iApFthK/RnUIzwuy5Dni/5oYaXS31OIw==",
+				"shasum": "6cc12eb67d2062fee9abe98a72ad785dfc4011b0",
+				"tarball": "https://registry.npmjs.org/mega-dtbs/-/mega-dtbs-0.1.17.tgz",
+				"fileCount": 5,
+				"unpackedSize": 43433,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcx1cNCRA9TVsSAnZWagAAvv4P/j1jT3OV2WsisGxAlEsm\nxCcAKG728Ph39zgpFThhsVcOqrCHjDpmLdr78xYZudQMPgdaIO7iCKJ0ElGJ\ntIybyV4L2hsc1t8HVnSxVswSlFD1jJwhMSWFV6yPSCv3miyAk8C7ItlJkc/K\nUxQ8mHsYegDVd/deujwPHU8zIOipRDe7YDDsfRJBjOkAjaSb2MXz+PIHlPtE\nc0YXnPx9LQCP//MqCmt/LUpaNGerEqYUJ2j8cKi1i3WfoTNtnbD/ko3g8tHX\nQLFH4x+kcNbwA1zm+2oYSOynAWosBzH8ZCIKnMmBPJ9Ov/vwuHUKX+rBL4B+\n9xbknOyBkx/29VHFXSFOonY9a73GrmLk3g/mQEsS2PEm4JyMTHMVjyWfrhge\nb6Z4utk+GR1MenKEylSjbJAH+TT/oWKDqbErLGexIUpMcgrxPjD3hCSeFteT\nyMmEf+BsTwhxxGN2HZ2wQdxpKaOOfV3iHLcRa+uDCN2jyFUvIrHIQMl8tytN\n+iAg31cEIJYho1oFdp93r9imp2gCAOTa9ETz8WwrhUebQL6HOmOMU2oxKp+p\nsqYQlEQzetuP+xnJ+KseeagR5Mjgu0W2oKOcajDCuqNlHtRmivILEsKsC4PX\nWqyWCLm09N/lrQMgwluDZtaSvzMr/6zcZZiFpVoWfpP/TeQQdlNvsXNurzhz\nLy1X\r\n=LGOa\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		}
+	},
+	"modified": "2019-04-29T19:57:05.313Z",
+	"cachedAt": 1592266355441
+}

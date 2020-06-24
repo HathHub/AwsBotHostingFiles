@@ -1,0 +1,46 @@
+{
+	"name": "park-miller",
+	"dist-tags": {
+		"latest": "1.1.0"
+	},
+	"versions": {
+		"1.0.0": {
+			"name": "park-miller",
+			"version": "1.0.0",
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"dist": {
+				"integrity": "sha512-Gdx+0DuJID9FpBFzBQGCqsVSpnW7AGTAXJkgSo9mSvRu/YBI9trLd3pUK4LQ6mwViZOCA/T9/GngkFRyPp63Rw==",
+				"shasum": "1f8a3978e897354fde37358e28903cecad8f2e8f",
+				"tarball": "https://registry.npmjs.org/park-miller/-/park-miller-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=6"
+			}
+		},
+		"1.1.0": {
+			"name": "park-miller",
+			"version": "1.1.0",
+			"devDependencies": {
+				"ava": "^1.4.1",
+				"tsd": "^0.7.2",
+				"xo": "^0.24.0"
+			},
+			"dist": {
+				"integrity": "sha512-6mLXc2jkM9dcavPoxDHfof2QM/baCsrgK51iHbJDHl94AwymJv2Z/iGKQVwJMWUAXFiIV6FzY9UskjU3+KvLuA==",
+				"shasum": "5831ca3b353166735e52a9c5fbb9ff8b1211b7c5",
+				"tarball": "https://registry.npmjs.org/park-miller/-/park-miller-1.1.0.tgz",
+				"fileCount": 5,
+				"unpackedSize": 4052,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcvsgyCRA9TVsSAnZWagAATmIP/2kF4ZLAHt9qhsodjoCQ\nDu+y31ixoXtkjBeNyuFoK1jsGC/k1oMvPFOh1KePnmP8d/XKzRBCmfJGV0Bx\ntG1Hc6OpGZ0f+NpChgI5X7N6F3zCYn1XR/AhBDZ6UPEwsOfL2u5g9IVSh+2i\ngYEn30zSr6gB9Yjr+cAGgVP5YMCj7GPwnWF1jvDrepZP5tQM8xCdG2uQhs5b\n6GjFcS+bz/fqxEskQILTFS814RY0hhZqd5FkdSzOZRwOB+oyDAt8jecbf+VA\n6beptBs7O8VGunTWHn/r6nbT/H7lGNustCJyHr5IO38A3aG/mEUNskGvnBS7\ntoqaeNIlQshRs7+yJsKoLFXrCFUHh4PS12OxkKCNY8G2wBKIKps4j+IV7I6W\nwe2Jlp0ZijmfGFlOaZb+NKC95vfapNLJHsSyB115iF7roB9VIum7dtBppZqN\nY5I9O4lQeIHnw+N0SCPEvZc2llvMmDu8Kaaz0doA+xA7MbprsjB4yNJu1m5j\nhFqfxqHJFLaYgTLGI/wHl5hwZjKFn4XPR9McLnb16j0XtOVxsHtu4BztZjzr\nvA0s7nOSh72YSqT5i4jF4PRbwXnuhbUXT7oB+Mf2sz8Y26rVtiTLONJQ0C8x\nx1L+95SUX4NKl3zRrc7N1ObMh+sLZMkx+Loz2zSClYE9QXXAoSPVqO6gy49F\nLynI\r\n=j/KB\r\n-----END PGP SIGNATURE-----\r\n"
+			},
+			"engines": {
+				"node": ">=6"
+			}
+		}
+	},
+	"modified": "2019-04-23T08:09:25.974Z",
+	"cachedAt": 1592266358784
+}

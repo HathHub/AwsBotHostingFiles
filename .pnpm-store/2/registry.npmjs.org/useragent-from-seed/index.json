@@ -1,0 +1,38 @@
+{
+	"name": "useragent-from-seed",
+	"dist-tags": {
+		"latest": "1.0.1"
+	},
+	"versions": {
+		"1.0.0": {
+			"name": "useragent-from-seed",
+			"version": "1.0.0",
+			"dependencies": {
+				"randoma": "^1.2.0"
+			},
+			"dist": {
+				"integrity": "sha512-5cZphCcBPMYMDZOQLHl8hakVJ88fwu9HZGiapdiebxv7QGXutS3EN/42TgGAVfdNKDIDLllsnOxEBGXqid7l6Q==",
+				"shasum": "27f9f308018b805016c0027b0366c27614ba4f7d",
+				"tarball": "https://registry.npmjs.org/useragent-from-seed/-/useragent-from-seed-1.0.0.tgz",
+				"fileCount": 5,
+				"unpackedSize": 22908
+			}
+		},
+		"1.0.1": {
+			"name": "useragent-from-seed",
+			"version": "1.0.1",
+			"dependencies": {
+				"randoma": "^1.2.0"
+			},
+			"dist": {
+				"integrity": "sha512-EFAdvlqEhG1mWc6xsNLn+xfif0vRmna08oS35JM/dAsRgbMnc8g8eShAsF7aU2teM37+yYmQcPb2l9zF1PCwZQ==",
+				"shasum": "4cb40b0fc71b7fad2feab24fc906a8b8bf2867b2",
+				"tarball": "https://registry.npmjs.org/useragent-from-seed/-/useragent-from-seed-1.0.1.tgz",
+				"fileCount": 5,
+				"unpackedSize": 22764
+			}
+		}
+	},
+	"modified": "2018-03-15T23:06:05.713Z",
+	"cachedAt": 1592266356030
+}

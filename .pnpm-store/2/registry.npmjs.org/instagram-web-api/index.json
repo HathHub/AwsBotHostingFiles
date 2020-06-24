@@ -1,0 +1,188 @@
+{
+	"name": "instagram-web-api",
+	"dist-tags": {
+		"latest": "2.2.0"
+	},
+	"versions": {
+		"0.0.1": {
+			"name": "instagram-web-api",
+			"version": "0.0.1",
+			"dependencies": {
+				"is-url": "^1.2.2",
+				"request": "^2.83.0",
+				"request-promise-native": "^1.0.5",
+				"tough-cookie": "^2.3.3"
+			},
+			"devDependencies": {
+				"ava": "^0.23.0",
+				"eslint-config-prettier": "^2.7.0",
+				"husky": "^0.14.3",
+				"lint-staged": "^4.3.0",
+				"prettier": "^1.8.2",
+				"xo": "^0.18.2"
+			},
+			"dist": {
+				"integrity": "sha512-KHd88vZsGLltKupKVhO7IDQRA0+vcE57gBWYxlvVuBGbycqtEbmN/Xz+dUoIzxPpn+QeH328qTYDVpQFP9yjUw==",
+				"shasum": "1a64b43996ab196861e6855725765655ee8ac2a6",
+				"tarball": "https://registry.npmjs.org/instagram-web-api/-/instagram-web-api-0.0.1.tgz"
+			}
+		},
+		"0.2.0": {
+			"name": "instagram-web-api",
+			"version": "0.2.0",
+			"dependencies": {
+				"is-url": "^1.2.2",
+				"request": "^2.83.0",
+				"request-promise-native": "^1.0.5",
+				"tough-cookie": "^2.3.3"
+			},
+			"devDependencies": {
+				"ava": "^0.24.0",
+				"eslint-config-prettier": "^2.9.0",
+				"husky": "^0.14.3",
+				"lint-staged": "^6.0.0",
+				"prettier": "^1.9.0",
+				"xo": "^0.18.2"
+			},
+			"dist": {
+				"integrity": "sha512-MHtRL+/FBINAa1yBu5A73O1RTWfBeoVrLdekNKOPnTTGaLG9IEFj1Rh3W1PmK21puDNgleATFSmm4jZosZOtCQ==",
+				"shasum": "108b5a6a1d4bd69c5383ed29a2a970fbcf64c496",
+				"tarball": "https://registry.npmjs.org/instagram-web-api/-/instagram-web-api-0.2.0.tgz"
+			}
+		},
+		"1.0.0": {
+			"name": "instagram-web-api",
+			"version": "1.0.0",
+			"dependencies": {
+				"is-url": "^1.2.2",
+				"request": "^2.85.0",
+				"request-promise-native": "^1.0.5",
+				"tough-cookie": "^2.3.4",
+				"useragent-from-seed": "^1.0.1"
+			},
+			"devDependencies": {
+				"ava": "^0.25.0",
+				"eslint-config-prettier": "^2.9.0",
+				"husky": "^0.14.3",
+				"lint-staged": "^7.0.0",
+				"prettier": "^1.11.1",
+				"xo": "^0.20.3"
+			},
+			"dist": {
+				"integrity": "sha512-mybBgdrPsRVdvvHO94ZuC/xoCVmKfHP4PID3MPZKUhw6pWFYw1V6pcw7KPiMFOxc42xxT1+XXBQGX99D2oSftg==",
+				"shasum": "c1c10390c4216c25e260c7d7e5dfd6eb765694fa",
+				"tarball": "https://registry.npmjs.org/instagram-web-api/-/instagram-web-api-1.0.0.tgz",
+				"fileCount": 4,
+				"unpackedSize": 19827
+			}
+		},
+		"1.1.0": {
+			"name": "instagram-web-api",
+			"version": "1.1.0",
+			"dependencies": {
+				"is-url": "^1.2.2",
+				"request": "^2.85.0",
+				"request-promise-native": "^1.0.5",
+				"tough-cookie": "^2.3.4",
+				"useragent-from-seed": "^1.0.1"
+			},
+			"devDependencies": {
+				"ava": "^0.25.0",
+				"eslint-config-prettier": "^2.9.0",
+				"husky": "^0.14.3",
+				"lint-staged": "^7.0.0",
+				"prettier": "^1.11.1",
+				"xo": "^0.20.3"
+			},
+			"dist": {
+				"integrity": "sha512-ONztDTuZIzdzEsh1gwKFVUPBzh6Ev26SsHfxvBWgsffFta5s1EVmN1brjLMJktLVVZ6lMJVFRr2Yh8kBF2bp3Q==",
+				"shasum": "16e6d232330f5be7dec037ac5b6c9dfc66249f1c",
+				"tarball": "https://registry.npmjs.org/instagram-web-api/-/instagram-web-api-1.1.0.tgz",
+				"fileCount": 4,
+				"unpackedSize": 24027
+			}
+		},
+		"2.0.0": {
+			"name": "instagram-web-api",
+			"version": "2.0.0",
+			"dependencies": {
+				"is-url": "^1.2.2",
+				"request": "^2.85.0",
+				"request-promise-native": "^1.0.5",
+				"tough-cookie": "^2.3.4",
+				"useragent-from-seed": "^1.0.1"
+			},
+			"devDependencies": {
+				"ava": "^0.25.0",
+				"eslint-config-prettier": "^2.9.0",
+				"husky": "^0.14.3",
+				"lint-staged": "^7.0.0",
+				"prettier": "^1.11.1",
+				"xo": "^0.20.3"
+			},
+			"dist": {
+				"integrity": "sha512-YF2SVQTqcYGFsp8Y2SfVonSLs1gitkDSPbaDI/FteVDxqkLnkjHB+HHcJyudCZTikJIHNOZtd3R+aDG0L9n7DA==",
+				"shasum": "65dc457680eed6c48c3c1ab875fc48d2cac59c5e",
+				"tarball": "https://registry.npmjs.org/instagram-web-api/-/instagram-web-api-2.0.0.tgz",
+				"fileCount": 4,
+				"unpackedSize": 23806
+			}
+		},
+		"2.1.0": {
+			"name": "instagram-web-api",
+			"version": "2.1.0",
+			"dependencies": {
+				"is-url": "^1.2.4",
+				"request": "^2.88.0",
+				"request-promise-native": "^1.0.8",
+				"tough-cookie": "^3.0.1",
+				"useragent-from-seed": "^1.0.1"
+			},
+			"devDependencies": {
+				"ava": "^2.4.0",
+				"eslint-config-prettier": "^2.10.0",
+				"husky": "^3.0.9",
+				"lint-staged": "^9.4.3",
+				"prettier": "^1.19.1",
+				"xo": "^0.20.3"
+			},
+			"dist": {
+				"integrity": "sha512-0VuVhFrtu0veY2Ag0pWCkAppRb52cjJvmXbJ1dKJHpPpOTbnLnQUXxrGmwmlwDtK04xLP174yq2bpJRkzn3Ddw==",
+				"shasum": "17f0c4210376c90dc73959fb0ddcfb995f0f1ead",
+				"tarball": "https://registry.npmjs.org/instagram-web-api/-/instagram-web-api-2.1.0.tgz",
+				"fileCount": 4,
+				"unpackedSize": 29356,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJd0mB7CRA9TVsSAnZWagAAOV8P/RKte4XLGoeoFTz6zucf\nfS3wLYP4rs4FNU4dRUPSlMEO+DDxl09fjTFfD9C79P3ceHCdYdLK+/b6Kvwc\nazwmrXvy9Mew0e2EGduG/PlPUWDV/KINeUZFO7N7zFrH6aJae/Rfc79d9fq9\ni6Sfxld/crdfLjPVISb8ymRJOdY79yKAKn3cnXkBWZvYhR5j4sA/sa075zpZ\nbxsbGHCKMFCmqsc4k7z+zu3A4gzVdNC2W+XYOHkgPF3X7SLg07+tC08jB4Ii\nMFz6xZlCXEivhdR6MrDADdoHB7PMoskJ+nAZj9nhZqQZ6yLnqEhCcIPt1Fwe\noQeRbmALrTmMAkGUX6t8XBZhsy+pc36fW1pBGjcyE7APiCSoYrwLk3ISV+hj\n4ElxmwQ+VIEigVInmT+/SaDC6rFNCaBrCEhK+6PmmU84AfPU3zB9jLtSng9o\nqXurVoG9YcIEaspO1DVVcL0Am3JbEOr8cy2i6SMfN1RldxnAiphJsq2H3XSi\nLHXozz23R7YifyZORjDCQVi26OH+O4+Yj7kGmCXOb6u0o1O3jFoQeojYBdiK\n9SLpMJsjZ8eK+Qpt3gfOyCI0k/2pTVOd+eTMEH1ldMcWic7ruTZ7l0EEmVgc\nViIldKKGKhr0RUMwiXxV3shrUSZudhTZYVq2S1Kl+DyVniP84ou0HweJm638\n5E2r\r\n=O+CG\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		},
+		"2.2.0": {
+			"name": "instagram-web-api",
+			"version": "2.2.0",
+			"dependencies": {
+				"is-url": "^1.2.4",
+				"request": "^2.88.0",
+				"request-promise-native": "^1.0.8",
+				"tough-cookie": "^3.0.1",
+				"useragent-from-seed": "^1.0.1"
+			},
+			"devDependencies": {
+				"ava": "^2.4.0",
+				"eslint-config-prettier": "^2.10.0",
+				"husky": "^3.0.9",
+				"lint-staged": "^9.4.3",
+				"prettier": "^1.19.1",
+				"xo": "^0.20.3"
+			},
+			"dist": {
+				"integrity": "sha512-/Q9UeV3fZpaz16BNSuty2QwN3my5zWHINTBlswqMNURy1AD1Zw3Qn8kPFnT6nL4UenJu0dTSLEYb2vpH1YFMzw==",
+				"shasum": "e1c8b9e88d4cd24e040a75f2596f894d189a4055",
+				"tarball": "https://registry.npmjs.org/instagram-web-api/-/instagram-web-api-2.2.0.tgz",
+				"fileCount": 4,
+				"unpackedSize": 33708,
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJexaBnCRA9TVsSAnZWagAA0iAQAISVSWZJ/r9CsGTXO54R\nWEuLE9xVIlxX5KPmOXcqdYEdDfdDO7VgY2bZ3FiQnEZh+Bu/V9YadCjZ9CyC\nLw8ykRofeva1sqNnpAyESSrXQH6c4WaairnS30qfPF4t836qI1D0yx3Vb3PX\n2M6zmesYkXObKpGNSYTth+lYIFyLhx4BH5J3uov09DuUMK9hX+O9m5vhNoOc\n1QpKL3eLEoUXQKiVNlXez4bqpcgn6roKA0Fg0rDcOLLqv9THkOcbN3D+TAv3\nz2mpV57/s1gsAay7XXTCMuXMZ1DJgRgoNuSUpeDTTqw0Furug5JUzD63iOzg\nWDsx6MZo0Kv367Us6+oEznBRbQAEVfRMamKLYCxsKHZhwJWg7wuoSGB7va8Q\njUYSfVK3nilfUbTy+9XVP6sU4v7eweBg1ElKEB5vgGjtTbzHBSE+X5jCxSkh\nGh2ljgS17MkbpdLCHIZaaNYFj50e8ypLCLY8eJjMrvX9CsVgExEA2TVIatAj\n8QBZMDjIo4hipTzXqJOg5ZcAW5lewVJQw7W1Pq50X/47UfjgNE9geHpjdrio\niv4IYNRtHUYIj4ivhf/PGV++0pVHV7XqAITj0HR+EAjOod3bPZMkVWLIy5rr\n5EwXf1XeE9eMK2ljm5b5h9IauTxF1kP3ja7u4uUefZMWrIrPPCQPwRwx6hLR\nJaN6\r\n=qS7N\r\n-----END PGP SIGNATURE-----\r\n"
+			}
+		}
+	},
+	"modified": "2020-05-20T21:26:00.897Z",
+	"cachedAt": 1592266355451
+}
