@@ -19,7 +19,7 @@
     "get-request-ip": "^1.0.1",
     "google-it": "^1.5.0",
     "megadb": "^3.4.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "node-fetch": "^2.6.0",
     "simple-youtube-api": "^5.2.1",
     "weez": "^1.6.1",
